@@ -19,6 +19,7 @@ Tal menu, deve ser respondido com 'yes' ou 'no' em lower case ou upper case, ret
 
 
 #ConnectionProblemHelper
+
 C code, which helps with tips for problems with no internet connection / provider.
 
 This program has a menu of options:
@@ -41,6 +42,7 @@ Such a menu must be answered with 'yes' or 'no' in lower case or upper case, ret
 
 
 #AyudanteDeProblemasDeConexión
+
 Código C, que ayuda con consejos para problemas sin conexión / ISP.
 
 Este programa tiene un menú de opciones:
